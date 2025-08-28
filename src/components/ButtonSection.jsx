@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Description from './Description'
 
 const ButtonSection = () => {
-  const [id_, setId] = useState(null)
+  const [id_, setId] = useState(1)
   return (
     <div>
         <div className="container">
