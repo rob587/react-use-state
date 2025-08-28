@@ -1,9 +1,9 @@
-
+import ButtonSection from "./components/ButtonSection"
 
 function App() {
   return(
     <>
-    <h1>ciao</h1>
+    <ButtonSection/>
     </>
   )
 }
